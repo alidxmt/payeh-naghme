@@ -1,0 +1,156 @@
+body{
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+#info-dastgah {
+    font-weight: bolder;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: gray;
+}
+div {
+    margin: 5px;
+    zoom: 1;
+    -moz-transform: scale(1);
+
+}
+#main {
+    zoom: 1;
+    -moz-transform: scale(1);
+}
+
+#daramad-1 {
+    display: inline;
+}
+
+#daramad-1-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;
+}
+
+
+#ouj-1 {
+    display: inline;
+    padding-left: 258px;
+}
+
+#ouj-1-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#salmak-1 {
+    display: inline;
+    padding-left: 258px;
+}
+
+#salmak-1-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#bozorg-1 {
+    display: inline;
+    padding-left: 518px;
+}
+
+#bozorg-1-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#ozal-1 {
+    display: inline;
+    padding-left: 518px;
+}
+
+#ozal-1-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#ozal-2 {
+    display: inline;
+    padding-left: 606px;
+}
+
+#ozal-2-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#daramad-zir-1 {
+    display: inline;
+    padding-left: 606px;
+}
+
+#daramad-zir-1-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#shahnaz-1 {
+    display: inline;
+    padding-left: 865px;
+}
+
+#shahnaz-1-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#shahnaz-2 {
+    display: inline;
+    padding-left: 865px;
+}
+
+#shahnaz-2-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#shahnaz-3 {
+    display: inline;
+    padding-left: 1124px;
+}
+
+#shahnaz-3-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#ouj-shahr-ashoub-1 {
+    display: inline;
+    padding-left: 1124px;
+}
+
+#ouj-shahr-ashoub-1-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}
+
+#ouj-shahr-ashoub-2 {
+    display: inline;
+    padding-left: 1209px;
+}
+
+#ouj-shahr-ashoub-2-text {
+    display: inline;
+    vertical-align: super; 
+    text-align: left;  
+}

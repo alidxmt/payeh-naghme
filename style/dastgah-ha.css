@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(123, 2, 0);
+}
+.dastgah-ha-div {
+    text-align: right;    
+    padding: 0px;
+}
+#main-div {
+
+}
+
+.dastgah-ha {
+    text-align: right;
+    direction: rtl;
+}
+
+.fehrest-dastgah-ha {
+    padding: 25px;
+}
+
+#dastgahha-div {
+    padding-right: 25px;
+}
+
+
+.node circle {
+}
+
+.node text {
+  font: 10px 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+  fill:rgb(80, 80, 80);
+}
+
+.node--internal circle {
+}
+
+.node--internal text {
+  text-shadow: 0 1px 0 rgb(236, 228, 226), 0 -1px 0 rgb(236, 228, 226), 1px 0 0 rgb(236, 228, 226), -1px 0 0 rgb(236, 228, 226);
+}
+
+.link {
+  fill: none;
+  stroke-opacity: 0.4;
+  stroke-width: 1.5px;
+}
+
+#svg-tree {
+   background-color: rgb(236, 228, 226);
+   opacity: .985;
+   border-bottom:5px solid rgba(213, 173, 163, 0.425);
+   border-bottom-left-radius: 35% 5%;
+   border-bottom-right-radius: 35% 5%;
+}
+
+#nava-klids {
+    text-align: center;
+    padding-top:1%;
+}
+
+#div-info {
+    text-align: left;
+}
