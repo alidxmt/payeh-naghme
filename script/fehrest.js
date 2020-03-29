@@ -109,5 +109,5 @@ function project(x, y) {
                         // .duration(3000)
 var Arr_MazrabHa = [1,(2**(500/1200)),(2**(2*500/1200)),(2**((2*500+200)/1200)),(2**((2*500+200)/1200))*2**(500/1200),(2**((2*500+200)/1200))*2**(2*500/1200),(2**((2*500+200)/1200))*2**((200+2*500)/1200)]
 var mainFrequency = 180;
-var NavaDaramad = new Nava('nava-klids',window.innerWidth/2,window.innerWidth/7,7,0,8,"shur shur",mainFrequency*Arr_MazrabHa[0])
+var NavaDaramad = new Nava('nava-klids',window.innerWidth/1.6,window.innerWidth/4,7,0,8,"shur shur",mainFrequency*Arr_MazrabHa[0])
 //const daramad1 = d3.select('#nava-klids').style("visibility","visible").style("top","100px").style("left","100px")
